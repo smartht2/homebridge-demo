@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-tutorial",
+  "name": "homebridge-demo",
   "version": "0.0.1",
-  "description": "Description for Homebridge Tutorial",
+  "description": "Description for Homebridge demo plugin",
   "license": "the most strict license",
   "keywords": [
     "homebridge-plugin"
